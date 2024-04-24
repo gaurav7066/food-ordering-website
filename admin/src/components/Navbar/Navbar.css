@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+.navbar .logo a{
+    font-size: 35px;
+    font-weight: 600;
+    color: #FF4C24;
+}
+.navbar .profile{
+    width: 40px;
+}
+
